@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @spawar2
-- 👀 I’m interested in machine learning applications
-- 🌱 I’m currently an associate research scientist at Yale University 
-- 💞️ I’m looking to collaborate on big data analysis projects
+- 👋 Hi, I’m @spawar2.
+- 👀 I’m interested in machine learning applications.
+- 🌱 I’m currently an associate research scientist at Yale University. 
+- 💞️ I’m looking to collaborate on big data analysis projects.
 - 📫 How to reach me: shrikant.pawar@yale.edu
 
 <!---
